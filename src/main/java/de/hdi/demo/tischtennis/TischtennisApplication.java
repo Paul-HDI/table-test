@@ -10,4 +10,5 @@ public class TischtennisApplication {
 		SpringApplication.run(TischtennisApplication.class, args);
 	}
 
+
 }
